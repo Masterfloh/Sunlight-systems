@@ -15,3 +15,8 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
 
 - Feel free to support this project by starring this repo!
 - Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/masterfloh/FlutterLoginSunlight-systems/blob/main/CONTRIBUTING.md) before submitting a pull request!
+
+
+# Commands
+
+- *<prefix> ping*  Displays the bot's ping
