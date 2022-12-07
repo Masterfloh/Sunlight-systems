@@ -1,7 +1,7 @@
 # What is Sunlight Systems?
 
 Sunlight Systems is a Open-source discord bot Project made byy masterfloh#7422 and Nic2#2064.
-There are tons of usefull features for Admins like Ban, Kick and Timeout features aswell as a Purge command and Poll command
+There are tons of usefull features for Admins like Ban, Kick and Timeout features. For a full, updates list of supported commands see below!
 
 # How do I use Sunlight Systems?
 
