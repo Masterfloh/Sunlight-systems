@@ -21,16 +21,16 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
 
 - **!ping**  Displays the bot's ping
 - **!poll** Creates a poll with the specified options
-- !mute Mutes the specified user
-- !unmute Unmutes the specified user
-- !kick Kicks the specified user
-- !ban Bans the specified user
-- !purge Clears the specified number of messages
-- !warn Warns the specified user
-- !getwarn Gets warns from the specified user
-- !lockdown Lockdowns a channel
-- !tempban Tempbans a specified user
-- !tempmute Tempmute a specified user
-- !unban Unbans the specified user
-- !say Repeats your sentence in a cleaner way
-- !announce Announces something to a channel
+- **!mute** Mutes the specified user
+- **!unmute** Unmutes the specified user
+- **!kick** Kicks the specified user
+- **!ban** Bans the specified user
+- **!purge** Clears the specified number of messages
+- **!warn **Warns the specified user
+- **!getwarn **Gets warns from the specified user
+- **!lockdown** Lockdowns a channel
+- **!tempban **Tempbans a specified user
+- **!tempmute **Tempmute a specified user
+- **!unban** Unbans the specified user
+- **!say** Repeats your sentence in a cleaner way
+- **!announce** Announces something to a channel
