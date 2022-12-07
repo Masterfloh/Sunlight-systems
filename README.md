@@ -28,7 +28,7 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
 - **!purge** Clears the specified number of messages
 - **!warn** Warns the specified user
 - **!getwarn** Gets warns from the specified user
-- **!lockdown** Lockdowns a channel
+- **!lockdown** Locks down a channel
 - **!tempban** Tempbans a specified user
 - **!tempmute** Tempmute a specified user
 - **!unban** Unbans the specified user
@@ -37,4 +37,4 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
   
  # Automatic Moderation
   
-This bot uses the on_message event to trigger actions when a message is sent in a server. If the message contains any of the words in the banned_words list, the message is deleted and the user is sent a warning message via dm.
+This bot uses the on_message event to trigger actions when a message is sent in any channel on the entire Discord. If the message contains any of the words in the banned_words list, the message is deleted and the user is sent a warning message via dm. When editing the banned words list, take note of the fact that it is case and spelling sensitive!
