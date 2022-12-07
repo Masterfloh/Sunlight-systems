@@ -26,11 +26,15 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
 - **!kick** Kicks the specified user
 - **!ban** Bans the specified user
 - **!purge** Clears the specified number of messages
-- **!warn **Warns the specified user
-- **!getwarn **Gets warns from the specified user
+- **!warn** Warns the specified user
+- **!getwarn** Gets warns from the specified user
 - **!lockdown** Lockdowns a channel
-- **!tempban **Tempbans a specified user
-- **!tempmute **Tempmute a specified user
+- **!tempban** Tempbans a specified user
+- **!tempmute** Tempmute a specified user
 - **!unban** Unbans the specified user
 - **!say** Repeats your sentence in a cleaner way
 - **!announce** Announces something to a channel
+  
+ # Automatic Moderation
+  
+This bot uses the on_message event to trigger actions when a message is sent in a server. If the message contains any of the words in the banned_words list, the message is deleted and the user is sent a warning message via dm.
