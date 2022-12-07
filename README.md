@@ -9,7 +9,7 @@ Since this is an Open-source project, feel free to copy our code and use, change
 
 ### How do I get this Bot Token?
 
-Simply go to the Discord Developer Dashboard <a href="https://discord.com/developers/applications">here<a>, create a application, add a bot to the application, and then get the Discord Bot token. If you need help, dont hesitate to contact us (Contact infos can be found on <a href="https://discord.com/masterfloh">Masterflohs Profile<a>
+Simply go to the Discord Developer Dashboard <a href="https://discord.com/developers/applications">here<a>, create a application, add a bot to the application, and then get the Discord Bot token. If you need help, dont hesitate to contact us (Contact infos can be found on <a href="https://github.com/Masterfloh">Masterfloh's Profile<a>
   
  # Contributing
 
