@@ -14,7 +14,7 @@ Simply go to the Discord Developer Dashboard <a href="https://discord.com/develo
  # Contributing
 
 - Feel free to support this project by starring this repo!
-- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/masterfloh/FlutterLoginSunlight-systems/blob/main/CONTRIBUTING.md) before submitting a pull request!
+- Contributions are welcome! Read the [CONTRIBUTING.md](https://github.com/masterfloh/Sunlight-systems/blob/main/CONTRIBUTING.md) before submitting a pull request!
 
 
 # Commands
