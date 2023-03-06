@@ -12,3 +12,4 @@ Below are some general rules & guidelines to keep in mind before and while contr
 To add features to this repo, fork this repo, add the feature(s) into the lib folder and Important Assets into the Assets folder, and then finally create a Pull Request. We will merge the PR once we verify it.
 
 **Note : Make sure your File names do not interfere with already existing ones
+
