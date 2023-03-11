@@ -39,4 +39,6 @@ This bot uses the `on_message` event to trigger actions when a message is sent i
 
 ## License
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/masterfloh/Sunlight-systems/blob/main/LICENSE.md) file for details.
